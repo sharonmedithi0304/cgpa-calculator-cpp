@@ -55,20 +55,7 @@ GPA=
 
 This ensures higher-credit subjects contribute proportionally more to the final GPA.
 
-🏗️ Project Structure
-cgpa_calculator/
-│
-├── include/
-│   └── cgpa.h          # Struct definitions + function declarations
-│
-├── src/
-│   ├── cgpa.cpp        # Core logic (calculation, sorting, search, file I/O)
-│   └── main.cpp        # CLI menu interface
-│
-├── data/               # Saved student records
-│
-├── Makefile
-└── README.md
+
 ⚙️ Technologies Used
 Technology	Purpose
 C++17	Core programming language
